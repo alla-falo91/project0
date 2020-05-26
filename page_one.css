@@ -1,0 +1,18 @@
+@font-face {
+  font-family: "Montserrat";
+ src: url(https://www.1001fonts.com/montserrat-font.html) format("Bold");
+}
+
+#wel{
+  color: white;
+  font-size: 1000%;
+  /*padding: 40px;*/
+  font-weight: bolder;
+  font-size-adjust: auto;
+  font-family:"Montserrat", sans-serif;
+  vertical-align: text-top;
+  float: right;
+  margin-top: auto;
+  margin: auto;
+  display: table-header-group;
+}
